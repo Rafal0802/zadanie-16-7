@@ -1,0 +1,10 @@
+.TodoList {
+	background-color: #1E90FF;
+	color: #FF7F50;
+	padding: 20px 30px;
+}
+
+.TodoList li {
+	cursor: pointer;
+	padding: 5px;
+}
